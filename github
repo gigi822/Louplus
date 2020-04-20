@@ -1,0 +1,8 @@
+git init
+cd .git
+cd /home/shiyanlou/**
+git config --global user.name 'gigi822'
+git config --global user.email 'gigi_822@163.com'
+git commit -m 'beizhu'
+git remote add temp https://**
+git push temp master
